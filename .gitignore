@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# Local / temporary experiment files
+temp/
+tmp/
+cache/
+
+# Large local files
+*.zip
